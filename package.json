@@ -1,0 +1,22 @@
+{
+  "name": "npm-practice",
+  "version": "1.0.0",
+  "description": "This is a practice npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "development",
+    "practice",
+    "node",
+    "npm",
+    "init"
+  ],
+  "author": "Luke Poirrier",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "node-fetch": "^2.6.1"
+  }
+}
